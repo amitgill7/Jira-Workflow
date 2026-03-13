@@ -37,6 +37,9 @@ This project demonstrates the design and management of a professional IT Support
 <b>Software Support: Application Crash</b>  <br/>
  Resolving a recurring Outlook crash following a Windows update via safe-mode diagnostics and office repair.
 <img width="813" height="718" alt="image" src="https://github.com/user-attachments/assets/75520e3a-0329-41c5-81fb-b9801abe98fe" />
+
+ <h2>Conclusion:</h2>
+This project demonstrates my ability to manage the full IT service lifecycle by transforming complex technical issues into organized, documented solutions. By simulating real-world scenarios, I have showcased a mastery of Jira workflows, strategic prioritization, and high-quality technical communication. This work reflects a commitment to operational excellence and a readiness to support stable, efficient enterprise IT environments.
 </p>
 
 <!--
