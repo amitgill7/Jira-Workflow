@@ -27,6 +27,7 @@ This project demonstrates the design and management of a professional IT Support
 <p align="center">
 <b>Main Ticket Queue (List View)</b> <br/>
  This view shows the overall health of the queue, showing various priorities and the "Resolved" status across different IT domains.
+ 
 <br />
 <br />
 <b>Incident Deep-Dive: Network Troubleshooting</b>  <br/>
