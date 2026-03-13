@@ -26,8 +26,9 @@ This project demonstrates the design and management of a professional IT Support
 
 <p align="center">
 <b>Main Ticket Queue (List View)</b> <br/>
- Description: This view shows the overall health of the queue, showing various priorities and the "Resolved" status across different IT domains.
-<img width="1890" height="891" alt="image" src="https://github.com/user-attachments/assets/c121975f-02bb-4b29-b535-eb6954e7646d" />
+ This view shows the overall health of the queue, showing various priorities and the "Resolved" status across different IT domains.
+/>
+ 
 <br />
 <br />
 <b>Create Resource Group:</b>  <br/>
