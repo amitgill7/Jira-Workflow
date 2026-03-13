@@ -21,7 +21,7 @@ This project demonstrates the design and management of a professional IT Support
 - Implementing a structured ticketing hierarchy (Incidents vs. Service Requests) ensures that critical system failures are addressed with high urgency while routine administrative tasks are managed without disrupting core operations.
 - Maintaining detailed resolution logs and root-cause documentation transforms closed tickets into a searchable knowledge base, significantly reducing time to resolution for recurring technical issues.
 - The project strengthened hands-on skills in IT Service Management (ITSM) frameworks, workflow customization within Jira, and the professional communication required between IT departments and end-users.
-- 
+
 <h2>Project Gallery:</h2>
 
 <p align="center">
@@ -37,9 +37,11 @@ This project demonstrates the design and management of a professional IT Support
 <b>Software Support: Application Crash</b>  <br/>
  Resolving a recurring Outlook crash following a Windows update via safe-mode diagnostics and office repair.
 <img width="813" height="718" alt="image" src="https://github.com/user-attachments/assets/75520e3a-0329-41c5-81fb-b9801abe98fe" />
-
+<br />
+<br />
  <h2>Conclusion:</h2>
 This project demonstrates my ability to manage the full IT service lifecycle by transforming complex technical issues into organized, documented solutions. By simulating real-world scenarios, I have showcased a mastery of Jira workflows, strategic prioritization, and high-quality technical communication. This work reflects a commitment to operational excellence and a readiness to support stable, efficient enterprise IT environments.
+
 </p>
 
 <!--
