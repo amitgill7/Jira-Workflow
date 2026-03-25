@@ -27,7 +27,8 @@ This project demonstrates the design and management of a professional IT Support
 <p align="center">
 <b>Main Ticket Queue (List View)</b> <br/>
  This view shows the overall health of the queue, showing various priorities and the "Resolved" status across different IT domains.
- 
+ https://github.com/amitgill7/Jira-Workflow/blob/main/Screenshot%202026-03-13%20173529.png?raw=true<img width="1905" height="1029" alt="image" src="https://github.com/user-attachments/assets/37e8989b-7996-4faa-908b-3e08782f209c" />
+
 <br />
 <br />
 <b>Incident Deep-Dive: Network Troubleshooting</b>  <br/>
