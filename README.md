@@ -27,13 +27,15 @@ This project demonstrates the design and management of a professional IT Support
 <p align="center">
 <b>Main Ticket Queue (List View)</b> <br/>
  This view shows the overall health of the queue, showing various priorities and the "Resolved" status across different IT domains.
- https://github.com/amitgill7/Jira-Workflow/blob/main/Screenshot%202026-03-13%20173529.png?raw=true<img width="1905" height="1029" alt="image" src="https://github.com/user-attachments/assets/37e8989b-7996-4faa-908b-3e08782f209c" />
+<img width="1905" height="1029" alt="image" src="https://github.com/user-attachments/assets/37e8989b-7996-4faa-908b-3e08782f209c" />
 
 <br />
 <br />
 <b>Incident Deep-Dive: Network Troubleshooting</b>  <br/>
  A user reported slow internet speeds (2Mbps). I identified a physical layer failure (damaged Cat5 cable) and upgraded the connection to Cat6.
-<img width="874" height="456" alt="image" src="https://github.com/user-attachments/assets/3473a336-8a7c-4551-a376-370a65805f26" />
+<img width="1916" height="1032" alt="image" src="https://github.com/user-attachments/assets/65ed7813-ab1a-44b8-8de9-56a2ed9a5d51" />
+
+
 <br />
 <br />
 <b>Software Support: Application Crash</b>  <br/>
