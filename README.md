@@ -40,7 +40,8 @@ This project demonstrates the design and management of a professional IT Support
 <br />
 <b>Software Support: Application Crash</b>  <br/>
  Resolving a recurring Outlook crash following a Windows update via safe-mode diagnostics and office repair.
-<img width="813" height="718" alt="image" src="https://github.com/user-attachments/assets/75520e3a-0329-41c5-81fb-b9801abe98fe" />
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/4f6b58a2-0aa2-47b9-9028-3913f5086150" />
+
 <br />
 <br />
  <h2>Conclusion:</h2>
